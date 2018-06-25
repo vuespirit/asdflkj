@@ -1,0 +1,24 @@
+{
+  "name": "filmnews",
+  "version": "1.0.0",
+  "description": "Film New App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuespirit/asdflkj.git"
+  },
+  "keywords": [
+    "Node",
+    "React",
+    "Javascript"
+  ],
+  "author": "sulenchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuespirit/asdflkj/issues"
+  },
+  "homepage": "https://github.com/vuespirit/asdflkj#readme"
+}
